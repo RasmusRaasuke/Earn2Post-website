@@ -32,24 +32,18 @@ The project has been discontinued. While the website remains operational, some f
 ## Features
 
 ### For User
-- [ ] Sign up/Sign in
-- [ ] Forgot password possibility
-- [ ] Ongoing feed
-- [ ] Profile customization
-- [ ] Following/Unfollowing
-- [ ] Adding friends
-- [ ] Messaging with firends
-- [ ] DeBug clicker for credit earning 
-- [ ] Possibility to buy DeBux with money
-- [ ] Settings
-- [ ] Bug Report
-- [ ] Switching account
-- [ ] Log out
+- Sign up/Sign in
+- Forgot password possibility
+- Ongoing feed
+- Profile customization
+- Adding friends
+- Messaging with firends (broken)
+- DeBug clicker for credit earning 
+- Switching account
+- Log out
 
 ### For Admin
-- [ ] Sales graph and Transactions tabel
-- [ ] Bug reports graph and ability to see bug reports
-- [ ] Post overview and ability to delete them
+- Post overview and ability to delete them
 
 ## Tools
 
