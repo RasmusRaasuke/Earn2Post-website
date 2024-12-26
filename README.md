@@ -10,7 +10,7 @@ Earn2Post is a socialmedia platform where users posting and commenting is limite
 
 ## Project Status
 
-Right now project is in development. We have done prototype of the website. You can see visuals of it below. Our next big step is to make this to a real thing.
+The project has been discontinued. While the website remains operational, some features may not function correctly, and the site is not considered complete or fully supported.
 
 ## Visuals
 
